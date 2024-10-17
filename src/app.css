@@ -1,0 +1,18 @@
+
+input{
+    width: 100%;
+    padding: 4px;
+}
+.container{
+    text-align: left;
+    .btn{
+        width: 5rem;
+    }
+    .col-2{
+        text-align: center;
+    }
+}
+
+.row{
+    margin-bottom: 1rem;
+}
